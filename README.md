@@ -1,10 +1,10 @@
-# Chapter1# Mechanistic models of antimicrobial resistance transmission between food animals and human populations: A systematic scoping review. 
+# Chapter1 Mechanistic models of antimicrobial resistance transmission between food animals and human populations: A systematic scoping review. 
 
 ## Systematic Scoping Review Details
 
 This repository is to store the analysis scripts and data files I have for chapter 1 of my PhD. 
 
-Chapter 1 aims to carry out a systematic scoping review to assess the current state of AMR transmission modelling between livestock and human populations. This was carried out only for mechanistic models.
+Chapter 1 aimed to carry out a systematic scoping review to assess the current state of AMR transmission modelling between livestock and human populations. This was carried out only for mechanistic models.
 - Dynamic Epidemiological Models
 - Risk Assessment Models
 
